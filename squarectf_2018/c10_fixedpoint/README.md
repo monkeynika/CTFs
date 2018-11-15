@@ -45,7 +45,7 @@ Let's to dive in it.
 Rockets.
 
 Rockets are key players of this game. Because when ```f(x)``` gets into ```if(rockets)```, function just print ```x``` ( input in rockets, WITHOUT rockets).
-When another emojis pass substring after one of their to enother emoji, rockets just print it, and the current recursion spins in the opposite direction!
+When another emojis pass substring after one of their to another emoji, rockets just print it, and the current recursion spins in the opposite direction!
 
 I call rockets as BRACKETS. Because they do nothing, they don't call ```f(x)``` again. And they disappears.. It is the hardest part of this game because rockets disappears. 
 
